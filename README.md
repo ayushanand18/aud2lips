@@ -7,7 +7,7 @@
 
 ## Usage
 + Make sure you have Jupyter, TensorFlow Keras, matplotlib, opencv, numpy, tqdm and other requirement libraries installed.
-+ Run the `2-test-gan-relook.ipynb` Notebook.
++ Run the `2-train-gan-relook.ipynb` Notebook.
 
 ## Author
 Ayush Anand
